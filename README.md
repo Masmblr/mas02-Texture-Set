@@ -1,0 +1,18 @@
+![preview](docs/images/header.jpg)
+
+## Introduction
+The **mas02** texture set is a collection of industrial textures.
+
+## Files
+| Type | Link |
+|----------|-------|
+| source| [click](https://github.com/Masmblr/mas02-Texture-Set/tree/main/src/) |
+| ioquake3-dev-files | [click](https://github.com/Masmblr/mas02-Texture-Set/tree/ioquake3-dev)|
+| ioquake3-binary | [click](https://github.com/Masmblr/mas02-Texture-Set/tree/ioquake3-bin)|
+
+
+## Credits & License
+- **Matthias Peters**
+
+A comprehensive list of all files and their respective licenses can be found in the following document: </br>
+[→ Overview.txt](./docs/copyright/Overview.txt)

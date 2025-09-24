@@ -2,7 +2,7 @@
 
 ## Installation
 
-Move the folders **`scripts`** and **`textures`** to your game root, then add the following line to your `shaderlist.txt` file (found in the `shaders/` directory):
+Move the folders **`scripts`** and **`textures`** to your game root, then add the following line to your `shaderlist.txt` file (found in the `scripts/` directory):
 
 ```
 shared_mas02

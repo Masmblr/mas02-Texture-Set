@@ -8,7 +8,7 @@ The **mas02** texture set is a collection of industrial textures.
 |----------|-------|
 | source| [click](https://github.com/Masmblr/mas02-Texture-Set/tree/main/src/) |
 | ioquake3-dev | [click](https://github.com/Masmblr/mas02-Texture-Set/tree/ioquake3-dev)|
-| ioquake3-bin | [click](https://github.com/Masmblr/mas02-Texture-Set/tree/ioquake3-bin)|
+| ioquake3-bin | [click](https://github.com/Masmblr/mas02-Texture-Set/releases/tag/v1.0)|
 
 
 ## Credits & License

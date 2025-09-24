@@ -1,15 +1,12 @@
-![preview](docs/images/header.jpg)
+# ioQuake3 Development Files
 
-## Introduction
-The **mas02** texture set is a collection of industrial textures.
+## Installation
 
-## Files
-| Type | Link |
-|----------|-------|
-| source| [click](https://github.com/Masmblr/mas02-Texture-Set/tree/main/src/) |
-| ioquake3-dev | [click](https://github.com/Masmblr/mas02-Texture-Set/tree/ioquake3-dev)|
-| ioquake3-bin | [click](https://github.com/Masmblr/mas02-Texture-Set/tree/ioquake3-bin)|
+Move the folders **`shaders`** and **`textures`** to your game root, then add the following line to your `shaderlist.txt` file (found in the `shaders/` directory):
 
+```
+shared_mas02
+```
 
 ## Credits & License
 - **Matthias Peters**

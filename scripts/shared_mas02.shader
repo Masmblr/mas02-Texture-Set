@@ -1,7 +1,7 @@
 // This file is a part of the "mas02" texture set.  
 // To the extent possible under law, Matthias Peters has waived all  
 // copyright and related or neighboring rights to this shader file.
-// See also docs/license.txt  
+// See also docs/copyright/Overview.txt  
 //  
 // For inquiries, contact:  
 // Email: masmblr@gmail.com  
@@ -9,7 +9,6 @@
 // --------------------
 // textures/shared_mas02_src  
 // --------------------
-
 
 textures/shared_mas02/border_01
 {
@@ -65,7 +64,6 @@ textures/shared_mas02/border_01_glow_animated
 	}	
 }
 
-// Lights
 textures/shared_mas02/light_01_p1000
 {
 	qer_editorimage textures/shared_mas02_src/light_01_glow.jpg
@@ -713,18 +711,3 @@ textures/shared_mas02/light_08_p3000
 		rgbGen wave sin 0.2 0.2 0.2 32
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

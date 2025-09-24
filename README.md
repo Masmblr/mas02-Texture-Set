@@ -3,6 +3,8 @@
 ## Introduction
 The **mas02** texture set is a collection of industrial textures.
 
+The textures were used in two projects: [atcs_ds](https://github.com/Masmblr/map-atcs_ds_src) and [arena_ds](https://github.com/Masmblr/map-arena_ds_src).
+
 ## Files
 | Type | Link |
 |----------|-------|

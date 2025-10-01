@@ -9,8 +9,8 @@ The textures were used in two projects: [atcs_ds](https://github.com/Masmblr/map
 | Type | Link |
 |----------|-------|
 | source| [click](https://github.com/Masmblr/mas02-Texture-Set/tree/main/src/) |
-| ioquake3-dev | [click](https://github.com/Masmblr/mas02-Texture-Set/tree/ioquake3-dev)|
-| ioquake3-bin | [click](https://github.com/Masmblr/mas02-Texture-Set/releases/tag/v1.0)|
+| ioq3-dev | [click](https://github.com/Masmblr/mas02-Texture-Set/tree/ioquake3-dev)|
+| ioq3-bin | [click](https://github.com/Masmblr/mas02-Texture-Set/releases/tag/v1.0)|
 
 
 ## Credits & License

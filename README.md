@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](docs/licenses/CreativeCommons_CC-BY-NC-ND-4.0.txt)  
 ![preview](docs/images/header.jpg)
 
 ## Introduction
@@ -17,4 +18,4 @@ The textures were used in two projects: [atcs_ds](https://github.com/Masmblr/map
 - **Matthias Peters**
 
 A comprehensive list of all files and their respective licenses can be found in the following document: </br>
-[→ Overview.txt](./docs/copyright/Overview.txt)
+[→ LICENSE](LICENSE)

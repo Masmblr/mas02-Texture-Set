@@ -1,1 +1,76 @@
-For details on licensing, please refer to /docs/copyright/Overview.txt.
+MAS02-Texture-Set License Informations
+=======================================
+
+This is a complete list of all files included in this project, along with their respective authors and license information. 
+Derivative files are marked with * and retain the original license unless otherwise noted.
+
+FILES
+======
+
+
+## Assets by Matthias Peters (masmblr@gmail.com) © 2013-2025
+License: Attribution-NonCommercial-NoDerivatives 4.0 International (see docs/licenses/CreativeCommons_CC-BY-ND-4.0.txt)
+----
+scripts/shared_mas02.shader
+textures/shared_mas02_src/base_01.jpg
+textures/shared_mas02_src/base_02.jpg
+textures/shared_mas02_src/base_03.jpg
+textures/shared_mas02_src/base_04.jpg
+textures/shared_mas02_src/border_01.jpg
+textures/shared_mas02_src/border_01.tga
+textures/shared_mas02_src/border_01_glow_01.jpg
+textures/shared_mas02_src/border_01_glow_02.jpg
+textures/shared_mas02_src/border_01_glow_03.jpg
+textures/shared_mas02_src/border_01_glow_04.jpg
+textures/shared_mas02_src/border_01_glow_05.jpg
+textures/shared_mas02_src/border_01_glow_06.jpg
+textures/shared_mas02_src/border_01_glow_07.jpg
+textures/shared_mas02_src/border_01_glow_08.jpg
+textures/shared_mas02_src/border_01_glow_09.jpg
+textures/shared_mas02_src/border_01_glow_10.jpg
+textures/shared_mas02_src/border_01_glow_11.jpg
+textures/shared_mas02_src/border_01_glow_12.jpg
+textures/shared_mas02_src/border_01_glow_13.jpg
+textures/shared_mas02_src/border_01_glow_14.jpg
+textures/shared_mas02_src/border_02.jpg
+textures/shared_mas02_src/border_03.jpg
+textures/shared_mas02_src/border_04.jpg
+textures/shared_mas02_src/border_05.jpg
+textures/shared_mas02_src/box_01.jpg
+textures/shared_mas02_src/button_01.jpg
+textures/shared_mas02_src/column_01.jpg
+textures/shared_mas02_src/column_02.jpg
+textures/shared_mas02_src/column_03.jpg
+textures/shared_mas02_src/column_04.jpg
+textures/shared_mas02_src/column_05.jpg
+textures/shared_mas02_src/column_06.jpg
+textures/shared_mas02_src/column_07.jpg
+textures/shared_mas02_src/column_08.jpg
+textures/shared_mas02_src/door_01.jpg
+textures/shared_mas02_src/floor_01.jpg
+textures/shared_mas02_src/floor_02.jpg
+textures/shared_mas02_src/floor_03.jpg
+textures/shared_mas02_src/light_01.jpg
+textures/shared_mas02_src/light_01_glow.jpg
+textures/shared_mas02_src/light_01_strobe.jpg
+textures/shared_mas02_src/light_02_glow.jpg
+textures/shared_mas02_src/light_03_glow.jpg
+textures/shared_mas02_src/light_04.jpg
+textures/shared_mas02_src/light_04_glow.jpg
+textures/shared_mas02_src/light_04_glow_strobe.jpg
+textures/shared_mas02_src/light_05_glow.jpg
+textures/shared_mas02_src/light_06_glow.jpg
+textures/shared_mas02_src/light_07.jpg
+textures/shared_mas02_src/light_07_glow.jpg
+textures/shared_mas02_src/light_07_glow_strobe.jpg
+textures/shared_mas02_src/light_08.jpg
+textures/shared_mas02_src/light_08_glow.jpg
+textures/shared_mas02_src/light_08_strobe.jpg
+textures/shared_mas02_src/plate_01.jpg
+textures/shared_mas02_src/plate_02.jpg
+textures/shared_mas02_src/plate_03.jpg
+textures/shared_mas02_src/plate_04.jpg
+textures/shared_mas02_src/plate_05.jpg
+textures/shared_mas02_src/wall_01.jpg
+textures/shared_mas02_src/wall_02.jpg
+----

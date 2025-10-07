@@ -12,4 +12,4 @@ shared_mas02
 - **Matthias Peters**
 
 A comprehensive list of all files and their respective licenses can be found in the following document: </br>
-[→ Overview.txt](./docs/copyright/Overview.txt)
+[→ LICENSE](LICENSE)

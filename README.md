@@ -6,7 +6,7 @@ The **mas02** texture set is a collection of industrial textures.
 
 The textures were used in two projects: [atcs_ds](https://github.com/Masmblr/map-atcs_ds_src) and [arena_ds](https://github.com/Masmblr/map-arena_ds_src).
 
-## Overview
+### Overview
 | Type | Link | Description |
 |--------|----------|-------------|
 | source| [click](https://github.com/Masmblr/mas02-Texture-Set/tree/main/src/) | Source files |
@@ -14,8 +14,6 @@ The textures were used in two projects: [atcs_ds](https://github.com/Masmblr/map
 | ioq3-bin | [click](https://github.com/Masmblr/mas02-Texture-Set/releases/)| ioQuake3 binary |
 
 
-## Credits & License
-- **Matthias Peters**
-
+### Credits & License
 A comprehensive list of all files and their respective licenses can be found in the following document: </br>
 [→ LICENSE](LICENSE)
